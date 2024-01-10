@@ -34,6 +34,11 @@ Aquí la lista de repos
 
 - [Amos Gyamfi](https://github.com/amosgyamfi/open-swiftui-animations)
 
+### Navegación
+
+- [Navigation pointfreeco](https://github.com/pointfreeco/swiftui-navigation)
+- [Routing & Navigation The right Way](https://blorenzop.medium.com/routing-navigation-in-swiftui-f1f8ff818937)
+
 ## Libros
 
 Lista de libros de internet
