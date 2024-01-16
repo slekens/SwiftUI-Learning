@@ -6,11 +6,13 @@ Recopilar todos los recursos disponibles y actualizados para aprender y dominar 
 
 ## Recursos
 
-Lista de urls para todos los tutoriales por nivel.
-
 ### Básico
 
-Tutoriales básicos
+- [Setting up a SwiftUI project](https://medium.com/@martinlasek/swiftui-getting-started-372389fff423)
+- [SwiftUI Introduction](https://appventure.me/guides/swiftui/preface.html)
+- [Starting with SwiftUI](https://www.hackingwithswift.com/articles/194/get-started-with-swiftui)
+- [Basic Table View App](https://www.appcoda.com/swiftui-first-look/)
+- [SwiftUI Optionals](https://engineering.q42.nl/swiftui-optionals/)
 
 ### Intermedio
 
@@ -26,9 +28,16 @@ Aquí la lista de repos
 
 ## Lista por temas
 
+### Conceptos
+
+- [some keyword](https://medium.com/@PhiJay/whats-this-some-in-swiftui-34e2c126d4c4)
+- [Property Wrappers](https://swiftwithmajid.com/2019/06/12/understanding-property-wrappers-in-swiftui/)
+- [Function Builders](https://vihan.org/blog/swift-function-builders/)
+
 ### Arquitecturas
 
 - [TCA Demo](https://github.com/slekens/ComposableArquitecture)
+- [MV Architecture](https://betterprogramming.pub/swiftui-architecture-a-complete-guide-to-mv-pattern-approach-5f411eaaaf9e)
 
 ### Animaciones
 
@@ -38,6 +47,10 @@ Aquí la lista de repos
 
 - [Navigation pointfreeco](https://github.com/pointfreeco/swiftui-navigation)
 - [Routing & Navigation The right Way](https://blorenzop.medium.com/routing-navigation-in-swiftui-f1f8ff818937)
+
+### Accesibilidad
+
+- [Accesibility](https://swiftwithmajid.com/2019/09/10/accessibility-in-swiftui/)
 
 ## Libros
 
