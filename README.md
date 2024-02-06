@@ -34,10 +34,15 @@ Aquí la lista de repos
 - [Property Wrappers](https://swiftwithmajid.com/2019/06/12/understanding-property-wrappers-in-swiftui/)
 - [Function Builders](https://vihan.org/blog/swift-function-builders/)
 
+### Combine
+- [Combine Introduction](https://medium.com/simform-engineering/introduction-to-combine-framework-db0278ec2eb0)
+
 ### Arquitecturas
 
 - [TCA Demo](https://github.com/slekens/ComposableArquitecture)
 - [MV Architecture](https://betterprogramming.pub/swiftui-architecture-a-complete-guide-to-mv-pattern-approach-5f411eaaaf9e)
+- [MODA-V](https://github.com/Emin-Emini/MODA-V-Software-Architecture-Framework)
+- [MARS](https://www.linkedin.com/posts/mihail-salari_marsarchitecture-swiftui-appdevelopment-activity-7101932656421945344-Ec25)
 
 ### Animaciones
 
